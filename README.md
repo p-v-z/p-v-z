@@ -1,3 +1,5 @@
+<a href=#><img src="anim.svg"></a>
+
 ### Hi there 👋
 
 <!--
