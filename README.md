@@ -1,4 +1,4 @@
-<a href=#><img src="anim.svg"></a>
+<a href=#><img src="anim-wave.svg"></a>
 
 ### Welcome 🎉
 🚀 This is my **personal Github account**, where I like to goof around and try new things. 🧪
