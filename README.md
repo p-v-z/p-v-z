@@ -3,7 +3,7 @@
 ### Welcome 🎉
 🚀 This is my **personal Github account**, where I like to goof around and try new things. 🧪
 
-💡 Please note that <u>none of my professional work</u> is linked to this account, as it is stored elsewhere, owned by the respective companies. 🔒
+💡 My professional work is not linked to this account and is owned by respective companies, stored elsewhere. 🔒
 
 - 🔭 My main areas of expertise are:
 	- 🎮 Unity 3D game development (C#, VR, AR, WebGL) 👾
