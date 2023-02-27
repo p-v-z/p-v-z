@@ -1,27 +1,12 @@
 <a href=#><img src="anim.svg"></a>
 
-### Hi there 👋
-Welcome to my personal Github account, where I like to goof around and try new things.
+### Welcome 🎉
+🚀 This is my **personal Github account**, where I like to goof around and try new things. 🧪
 
-Please note that that none of my professional work is tied to this account.
+💡 Please note that <u>none of my professional work</u> is linked to this account, as it is all stored in private repositories on different platforms. 🔒🤫
 
 - 🔭 My main areas of expertise are:
- - Full stack web development (JavaScript, HTML, CSS)
- - Front-end development (Angular, React)
- - Unity game development (C#, VR, AR, WebGL)
+	- 🎮 Unity game development (C#, VR, AR, WebGL) 👾
+	- 🌐 Full stack web development (JavaScript, HTML, CSS) 💻
+	- ⚛️ Front-end development (Angular, React) 🛡️
 - 📫 How to reach me: pvanzyl065@gmail.com
-
-<!--
-**p-v-z/p-v-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
