@@ -6,7 +6,7 @@
       <stop stop-color="#8023c9" offset="0">
         <animate attributeName="stop-color" values="#008489;#0d4786;#971f6a;#e48030;#42ab54;#008489" dur="15s" repeatCount="indefinite"/>
       </stop>
-      <stop stop-color="#21201f" offset="1"></stop>
+      <stop stop-color="#000521" offset="1"></stop>
     </linearGradient>
     <path d="" fill="url(#lg-0.5924136760490837)" opacity="0.4">
       <animate attributeName="d" dur="8s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline"
